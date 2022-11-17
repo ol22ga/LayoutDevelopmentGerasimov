@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LayoutDevelopmentGerasimov</string>
+    <string name="appname">App Name</string>
+    <string name="login">Log In</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur</string>
+    <string name="product">Product of <b>Team Name</b></string>
+    <string name="firstfield">Enter Email / Phone Number</string>
+    <string name="secondfield">Password</string>
+    <string name="remember">Remember Password</string>
+    <string name="forget">Forget Password?</string>
+    <string name="login2"><B>Login</B></string>
+    <string name="register"><B>Register</B></string>
+    <string name="or">OR</string>
+    <string name="Google">GOOGLE</string>
+    <string name="Facebook">FACEBOOK</string>
+    <string name="registration">Dont’t have an account? Let’s <b>Register</b></string>
+    <string name="auth">Already registered? Let`s <b>Login</b></string>
+    <string name="registr">Register</string>
+    <string name="fullname">Full Name</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="agree">I agree with terms &amp; conditions</string>
+    <string name="congrates">Congrats!</string>
+    <string name="account">Account Created\nSuccessfully</string>
+
+
+</resources>
