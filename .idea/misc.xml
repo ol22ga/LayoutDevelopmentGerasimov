@@ -6,9 +6,9 @@
         <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/drawable/btn_pressed.xml" value="0.3725" />
         <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/drawable/btnbackgroundactive.xml" value="0.3725" />
         <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/drawable/btnbackgroundinactive.xml" value="0.3725" />
-        <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/layout/activity_authorization.xml" value="0.33" />
+        <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/layout/activity_authorization.xml" value="0.25" />
         <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
-        <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/layout/activity_registration.xml" value="0.33" />
         <entry key="..\:/LayoutDevelopmentGerasimov-master/app/src/main/res/layout/activity_successful_registration.xml" value="0.2" />
       </map>
     </option>
@@ -23,7 +23,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.1" />
+        <option name="scale" value="0.15" />
       </ProjectState>
     </option>
   </component>
